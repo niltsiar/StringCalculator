@@ -1,0 +1,4 @@
+StringCalculator
+================
+
+Kata StringCalculator
